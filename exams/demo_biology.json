@@ -1,0 +1,33 @@
+{
+  "exam_id": "demo_biology",
+  "title": "Biology Midterm — Chapter 3",
+  "subject": "Biology",
+  "created_at": "2026-02-19T14:09:27.544780",
+  "alpha": 0.4,
+  "questions": [
+    {
+      "number": 1,
+      "question_text": "What is photosynthesis?",
+      "reference_answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize nutrients from carbon dioxide and water. It generally involves the green pigment chlorophyll and generates oxygen as a by-product.",
+      "max_score": 5.0
+    },
+    {
+      "number": 2,
+      "question_text": "What is the role of mitochondria in a cell?",
+      "reference_answer": "The mitochondria is the organelle responsible for producing ATP through the process of cellular respiration. It is often called the powerhouse of the cell because it generates most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy.",
+      "max_score": 5.0
+    },
+    {
+      "number": 3,
+      "question_text": "Explain the process of osmosis.",
+      "reference_answer": "Osmosis is the movement of water molecules through a semipermeable membrane from a region of lower solute concentration to a region of higher solute concentration, until equilibrium is reached.",
+      "max_score": 5.0
+    },
+    {
+      "number": 4,
+      "question_text": "What is DNA replication?",
+      "reference_answer": "DNA replication is a semiconservative process where the double helix unwinds and each strand serves as a template for a new complementary strand, resulting in two identical DNA molecules. Key enzymes include helicase, primase, and DNA polymerase.",
+      "max_score": 5.0
+    }
+  ]
+}
